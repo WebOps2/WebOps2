@@ -9,7 +9,7 @@ Machine Learning • Web Development • Mobile App Development • Building QHa
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center"
-       src="https://github-readme-stats.vercel.app/api?username=WebOps2&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800&v=2"
+       src="https://github-readme-stats.vercel.app/api?username=WebOps2&&show_icons=true&locale=en&repo=convoychat&theme=radical" "
        alt="WebOps2 stats" />
 </a>
 
