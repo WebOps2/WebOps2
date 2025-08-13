@@ -1,10 +1,10 @@
-# Hi there, I'm Kosi 👋
+## **Computer Science & Mathematics @ Queen’s University**
+Machine Learning • Web Development • Mobile App Development • Building QHacks Website 
 
-🚀 **Software Developer | AI Enthusiast | Full-Stack Engineer**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 
-I'm passionate about building practical AI tools, clean user interfaces, and scalable backend systems. I love working on real-world projects that blend **AI, cloud computing, and great UX**.
-
----
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -44,7 +44,3 @@ I'm passionate about building practical AI tools, clean user interfaces, and sca
 [![PowerShell](https://go-skill-icons.vercel.app/api/icons?i=powershell)](https://learn.microsoft.com/en-us/powershell/)
 [![AWS](https://go-skill-icons.vercel.app/api/icons?i=aws)](https://aws.amazon.com/)
 
-
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://yourportfolio.com)  
