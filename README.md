@@ -1,8 +1,8 @@
 ## **Computer Science & Mathematics @ Queen’s University**
 Machine Learning • Web Development • Mobile App Development • Building QHacks Website 
 
-[![LinkedIn](linkedin.com/in/kosi-amobi-oleka-51557225a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=flat&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kosi-amobi-oleka-51557225a/)
+![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-blue?style=flat&logo=vercel&logoColor=white)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kosi.amobioleka@gmail.com)
 
 
