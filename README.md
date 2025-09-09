@@ -1,9 +1,9 @@
 ## **Computer Science & Mathematics @ Queen’s University**
 Machine Learning • Web Development • Mobile App Development • Building QHacks Website 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](linkedin.com/in/kosi-amobi-oleka-51557225a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=flat&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kosi.amobioleka@gmail.com)
 
 
 
@@ -34,7 +34,7 @@ Machine Learning • Web Development • Mobile App Development • Building QHa
 [![Express](https://go-skill-icons.vercel.app/api/icons?i=express)](https://expressjs.com)
 [![Firebase](https://go-skill-icons.vercel.app/api/icons?i=firebase)](https://firebase.google.com)
 [![Supabase](https://go-skill-icons.vercel.app/api/icons?i=supabase)](https://supabase.com)
-[![Spring Boot](https://go-skill-icons.vercel.app/api/icons?i=spring)](https://spring.io/projects/spring-boot)
+[![Spring Boot](https://go-skill-icons.vercel.app/api/icons?i=spring-boot)](https://spring.io/projects/spring-boot)
 [![PostgreSQL](https://go-skill-icons.vercel.app/api/icons?i=postgresql)](https://www.postgresql.org/)
 [![MongoDB](https://go-skill-icons.vercel.app/api/icons?i=mongodb)](https://www.mongodb.com/)
 [![JavaScript](https://go-skill-icons.vercel.app/api/icons?i=js)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262)
